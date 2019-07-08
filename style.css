@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+@import '~jquery-ui-pack/jquery-ui.css';
+@import '~jquery-ui-pack/jquery-ui.structure.css';
+
+@import '~jquery-ui-pack/jquery-ui.theme.css';
+
+@import '~pqgrid/pqgrid.min.css';
+@import '~pqgrid/pqgrid.ui.min.css';
+@import '~pqgrid/themes/steelblue/pqgrid.css';
+
